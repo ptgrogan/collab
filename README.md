@@ -7,7 +7,7 @@ This project defines a simple graphical user interface for a multi-actor collabo
 
 ## Pre-requisites
 
-You must have an IEEE Std. 1516-2010 High Level Architecture (HLA) runtime infrastructure (RTI) to use this software. The included Maven configuration (pom.xml) assumes you are using version 2.0.2 of the open source (Portico RTI)[http://www.porticoproject.org/] with the environment variable RTI_HOME set to the install path. The software has also been tested with the commercial Pitch pRTI implementation.
+You must have an IEEE Std. 1516-2010 High Level Architecture (HLA) runtime infrastructure (RTI) to use this software. The included Maven configuration (pom.xml) assumes you are using version 2.0.2 of the open source [Portico RTI](http://www.porticoproject.org/) with the environment variable RTI_HOME set to the install path. The software has also been tested with the commercial Pitch pRTI implementation.
 
 ## Running the Program
 
