@@ -1,0 +1,41 @@
+ #              Name (Individual/Team)      Description  C_t  C_s    C
+ 1            Breezy Rain (Individual)        3x3 SU TU    3    0    3
+ 2       Chief Government (Individual)        4x4 SU TU    4    0    4
+ 3          Thinkable Ink (Individual)        6x6 SU TU    6    0    6
+ 4          Hallowed Sign (Individual)        2x2 SU TC    6    0   10
+ 5            Husky Verse (Individual)        2x2 SU TC    6    0   10
+ 6        Statuesque Name (Individual)        3x3 SU TC   27    0   39
+ 7             Flat Sleep (Individual)        3x3 SU TC   27    0   39
+ 8          Brainy Damage (Individual)        4x4 SU TC   76    0  100
+ 9            Silky Waste (Individual)        4x4 SU TC   76    0  100
+10                   Murky Mass (Team)   2x2 SPC TC (A)    6    4   11
+11                  Wistful Act (Team)   2x2 SPC TC (B)    6    4   11
+12         Unwritten Experience (Team)   2x2 SPC TC (C)    6    4   11
+13               Onerous Effect (Team)   3x3 SPC TU (A)    3    4    3
+14             Hard Development (Team)   3x3 SPC TU (B)    3    4    3
+15                  Alert Burst (Team)   3x3 SPC TU (C)    3    4    3
+16              Befitting Plant (Team)   3x3 SPC TC (A)   27    4   43
+17               Arrogant Flame (Team)   3x3 SPC TC (B)   27    4   43
+18              Better Behavior (Team)   3x3 SPC TC (C)   27    4   43
+19              Absorbed Copper (Team)       4x4 SPC TC   76    4  113
+20                Towering Test (Team)    3x3 SC TU (A)    3    9    3
+21               Staking System (Team)    3x3 SC TU (B)    3    9    3
+22                  Wide Growth (Team)        6x6 SC TU    6   24    6
+23              Economic Motion (Team)       3x3 SC TC    27   24   47
+24              Noiseless Stone (Team)        4x4 SC TC   76   24  120
+
+experiment005: [ 4 20 18 6 7 1 3 2 15 23 16 21 17 14 5 13 11 24 8 22 9 19 10 12 ]
+
+experiment006: [ 17 13 12 15 14 10 5 2 3 4 21 24 16 22 6 11 19 9 1 18 23 7 8 20 ]
+
+experiment007: [ 6 23 21 2 13 20 5 4 1 22 24 8 9 14 16 12 11 7 17 3 10 19 15 18 ]
+
+experiment008: [ 12 7 23 20 6 11 4 18 3 15 10 24 8 14 16 19 22 17 5 9 1 13 2 21 ]
+
+experiment009: [ 3 13 23 22 6 21 16 11 15 14 1 18 12 2 4 9 24 10 7 20 19 17 5 8 ]
+
+experiment010: [ 1 11 13 14 18 12 4 5 23 17 19 21 3 10 8 7 16 24 15 6 22 20 2 9 ]
+
+experiment011: [ 5 22 20 1 3 4 17 18 11 10 2 8 13 7 9 15 19 24 14 16 21 6 23 12 ]
+
+experiment012: [ 20 3 1 5 4 17 18 16 7 2 9 15 24 22 8 13 14 11 23 21 12 6 19 10 ]
