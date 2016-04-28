@@ -1,0 +1,12 @@
+{
+    "sessions":[
+        {
+            "name": "test",
+            "jsonFile": "test.json",
+            "logFile": "test.log",
+            "errTolerance": 0.05,
+            "numTolerance": 0.000,
+            "omittedTasks": []
+        }
+    ]
+}
